@@ -1,0 +1,17 @@
+{
+    "format_version": 1,
+    "header": {
+        "description": "TutorialMod",
+        "name": "TutorialMod",
+        "uuid": "7f41ee66-7d4e-4191-9367-affcd0c972c3",
+        "version": [0, 0, 1]
+    },
+    "modules": [
+        {
+            "description": "TutorialMod",
+            "type": "data",
+            "uuid": "4c9b4f5b-53c0-45c9-ac28-b2d265bea422",
+            "version": [0, 0, 1]
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{"frames": [
+
+{
+	"filename": "hs.png",
+	"frame": {"x":0,"y":0,"w":16,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":16},
+	"sourceSize": {"w":16,"h":16}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "hs.png",
+	"format": "RGBA8888",
+	"size": {"w":16,"h":16},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:0a9a769ac1d5234dc4163e6d933a9db3:247264d216137aa2a21bce6e3a3b1dd3:3a11f04b5650294019d9b2f4a0871ebc$"
+}
+}

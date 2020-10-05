@@ -1,0 +1,20 @@
+{"frames": [
+
+{
+	"filename": "lbs.png",
+	"frame": {"x":0,"y":0,"w":16,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":16},
+	"sourceSize": {"w":16,"h":16}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "lbs.png",
+	"format": "RGBA8888",
+	"size": {"w":16,"h":16},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:d0d1f6f9f7a91ba3fd2a03ab360eaae7:2eb947242b37561a63497d42310eca12:775a226822de932b39b7ee94beb06a20$"
+}
+}

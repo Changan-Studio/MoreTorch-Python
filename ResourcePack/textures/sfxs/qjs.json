@@ -1,0 +1,20 @@
+{"frames": [
+
+{
+	"filename": "qjs.png",
+	"frame": {"x":0,"y":0,"w":16,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":16},
+	"sourceSize": {"w":16,"h":16}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "qjs.png",
+	"format": "RGBA8888",
+	"size": {"w":16,"h":16},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:452c32817a5348524966e1abc76ebdd1:03ff854ad0ea595209454b6070695af3:6ba002f4870c14584f6043f42c1bb223$"
+}
+}

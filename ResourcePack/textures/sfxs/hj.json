@@ -1,0 +1,20 @@
+{"frames": [
+
+{
+	"filename": "hj.png",
+	"frame": {"x":0,"y":0,"w":16,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":16},
+	"sourceSize": {"w":16,"h":16}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "hj.png",
+	"format": "RGBA8888",
+	"size": {"w":16,"h":16},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:1b84cd3540b69f164abda2c7d78d18b4:257742e471200dd816795007db8800ae:23563c51b0eb45a244235d0b9e989649$"
+}
+}

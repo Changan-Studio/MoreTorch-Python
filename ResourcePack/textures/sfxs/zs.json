@@ -1,0 +1,20 @@
+{"frames": [
+
+{
+	"filename": "zs.png",
+	"frame": {"x":0,"y":0,"w":16,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":16},
+	"sourceSize": {"w":16,"h":16}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "zs.png",
+	"format": "RGBA8888",
+	"size": {"w":16,"h":16},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:77f3f1ab4d4ab469bf8e1f7258195c03:6d45cd9cfbd8201a821d94224d304092:f675a0ec20a4bb811f31f08f63414486$"
+}
+}
